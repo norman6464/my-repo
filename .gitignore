@@ -1,2 +1,2 @@
 *.yml
-!secrets.yml
+literals.yml
