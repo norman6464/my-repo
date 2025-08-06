@@ -1,2 +1,2 @@
 *.yml
-!compare-functions.yml
+!generate-functions.yml
